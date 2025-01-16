@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FE Mentor Solutions",
-  description: "Frontend Mentor Solutions",
+  title: "My Portfolio",
+  description: "Portfolio made by Juan Toledo",
 };
 
 export default function RootLayout({
